@@ -8,9 +8,9 @@ A modern and responsive astrology-themed website built using **HTML, CSS, and Ja
 
 ## 🌐 Live Demo
 
-🔗 **Website:** YOUR_LIVE_LINK
+🔗 **Website:**  https://avinashmanitiwari.github.io/An-Astrology-App/
 
-💻 **Source Code:** YOUR_GITHUB_REPOSITORY_LINK
+
 
 ---
 
